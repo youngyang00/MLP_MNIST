@@ -1,6 +1,6 @@
 # MLP_MNIST
 This project is based on Digital system design lecture in Seoul National University of science and technolgy.
-The goal of this project is to recognizing numeric cursive (use MNIST dataset) as accurately as possible.
+The goal of this project is recognizing numeric cursive (use MNIST dataset) as accurately as possible.
 
 
 
